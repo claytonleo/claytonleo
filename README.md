@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Olá, sou o aluno Clayton Leonardo Momberger Magalhaes
+
+Futuro jogador do [Real Madrid](https://www.realmadrid.com)
+
+Aluno do Morelli
+
+Treinando no [Boca Juniors](https://www.bocajuniors.com)
+
+Cristão
+
 <!--
 **claytonleo/claytonleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
