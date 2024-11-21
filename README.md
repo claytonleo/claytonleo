@@ -1,4 +1,5 @@
 ## Hi there 👋
+gmail: clayton.magalhaes@escola.pr.gov.br
 
 Olá, sou o aluno Clayton Leonardo Momberger Magalhaes
 
